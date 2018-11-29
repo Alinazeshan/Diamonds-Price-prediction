@@ -1,6 +1,6 @@
 # Linear-Regression-in-R
 
-## What Software Do I Need?### Language used
+## What Software Do I Need?
 
 R (downloaded from their official site)
 R Markdown (rmd)
@@ -13,7 +13,8 @@ Linear regression model is used to predict diamond price using other variables i
 
 Price of Diamonds and therir relation with the carat was visualized
 Demand of teh diamonds and Rise in the price of Diamond was explored.
-Clarity of diamond is explored to find any relation with the price
+Clarity nand cut of diamond is explored to find any relation with the price
+Predictions were made for the price of Diamond.
 
 ## License
 
