@@ -47,7 +47,7 @@ ggplot(diamonds,(aes(x = carat, y = price)))+
 ### Price and Carat Relationship
 Response:
 
-1. there is non linear relationship between both variables, maybe its exponential or else.
+1. There is non linear relationship between both variables, maybe its exponential or else.
 
 2. Variance or dispersion increases as the carat size increases.
 
